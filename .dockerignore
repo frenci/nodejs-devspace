@@ -1,0 +1,6 @@
+Dockerfile
+
+# Ignore .git folder
+.git
+devspace.yaml
+node_modules/
